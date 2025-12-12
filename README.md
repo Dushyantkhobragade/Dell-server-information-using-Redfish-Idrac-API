@@ -5,7 +5,7 @@
    
 Script output will look like this 
 
-$ sh drac_redfish_api_dell.sh 
+$ sh idrac_redfish_api_dell.sh 
 
 Enter iDRAC IP: 192.168.0.111
 
