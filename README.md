@@ -6,6 +6,7 @@
 Script output will look like this 
 
 $ sh drac_redfish_api_dell.sh 
+
 Enter iDRAC IP: 192.168.0.111
 Enter username: root
 Enter password:
@@ -14,7 +15,10 @@ Output:
 
 {
   "ID": "Disk.Bay.3:Enclosure.Internal.0-1:RAID.SL.3-1",
+  
   "LifeRemainingPercent": 70,
+  
   "SerialNumber": "XXxx8889222xxxxxxx",
+  
   "Total_Disk_size_bytes": 480103981056
 }
