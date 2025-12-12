@@ -1,4 +1,4 @@
-# This script is to fetch disk attached to Dell server using Redfish API.
+# This script is to fetch information of disk's attached to Dell server using Redfish API.
 
 1. This bash script is interactive which prompts for IDRAC IP and credentials of Idrac
 2. In script output, it will get Disk slot number, disk lifetime remaining and Disk size
